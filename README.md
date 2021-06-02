@@ -136,7 +136,7 @@ Detailed changes for each release are documented in the [release notes](https://
 
 ## Online Demo
 
-[Preview](https://www..enliten.cn/)
+[Preview](https://www.enliten.cn/)
 
 ## Browsers support
 
