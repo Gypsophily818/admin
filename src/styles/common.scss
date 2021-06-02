@@ -1,0 +1,52 @@
+// paper-detail
+// topic-header-style
+// 字体布局
+.paper-text-left {
+  text-align: left;
+  font-weight: bold;
+  color: red;
+}
+.paper-text-center {
+  text-align: center;
+  font-weight: bold;
+  color: blue;
+}
+.paper-text-right {
+  text-align: right;
+  font-weight: bold;
+  color: lightskyblue;
+}
+// 字体大小
+.paper-font-small {
+  //30upx
+  font-size: 15px;
+}
+.paper-font-middle {
+  //32upx
+  font-size: 16px;
+}
+.paper-font-large {
+  //36upx
+  font-size: 18px;
+}
+// 字体装饰
+.paper-text-normal {
+  font-style: normal;
+}
+.paper-text-italic {
+  font-style: initial;
+}
+.paper-text-background {
+  color: #ffffff;
+  background-color: #6f6f6f;
+  padding: 8rpx;
+  border-radius: 10rpx;
+}
+// 作业通过状态字体
+.textblack {
+  color: #191a1a;
+}
+.textred {
+  color: #e72f39;
+}
+
